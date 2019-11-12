@@ -1,4 +1,4 @@
-# Icosun
+![Icosun](https://icosun.s3.amazonaws.com/icosun-redux.png)
 
 ## About
 
@@ -10,7 +10,7 @@ Icosun open-source project is a hybrid PWA and was born based on Icomoon App and
 
 ## Todo
 
-- [ ] Branding
+- [x] Branding
 - [ ] Interface design (Figma)
 - [ ] Back-end (for free cloud storage setup)
 - [ ] Front-end
