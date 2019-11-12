@@ -1,4 +1,4 @@
-![Icosun](https://icosun.s3.amazonaws.com/icosun-redux.png)
+![Icosun](https://icosun.s3.amazonaws.com/icosun-redux.png?v=1)
 
 ## About
 
