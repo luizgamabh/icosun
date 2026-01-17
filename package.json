@@ -47,7 +47,7 @@
     "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
-    "@angular/cli": "8.3.3",
+    "@angular/cli": "21.1.0",
     "@nrwl/workspace": "8.7.1",
     "@types/node": "~8.9.4",
     "dotenv": "6.2.0",
